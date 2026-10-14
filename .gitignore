@@ -1,0 +1,14 @@
+work/
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.ruff_cache/
+.DS_Store
+*.pt
+*.onnx
+*.bin
+*.hbm
+*.rgb
+*.cache
+.env

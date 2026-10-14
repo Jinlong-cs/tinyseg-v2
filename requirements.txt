@@ -1,0 +1,4 @@
+ultralytics @ https://github.com/ultralytics/ultralytics/archive/3d75949c41f78a2c6763eb347ac7a94793098e89.zip
+onnx>=1.16,<2
+onnxruntime>=1.20,<2
+torch>=2.6,<3
